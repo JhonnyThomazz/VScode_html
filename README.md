@@ -23,3 +23,4 @@
 - clique em "Mostrar mais opções" e depois disso, clique em "Open git bash here"*
 
  > *DETALHE: REQUER O APLICATIVO GIT PARA A OPÇÃO ESTAR DISPONÍVEL. OBTENHA O GIT [AQUI](https://git-scm.com/downloads)
+
