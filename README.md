@@ -47,4 +47,35 @@
 
   *<h1>Vamos configurar o gitPages!</h1>*
   - primeiro, abra as configurações de seu repositório.
-    
+
+    <img width="1006" height="294" alt="image" src="https://github.com/user-attachments/assets/619cf0d8-eadb-455b-ba12-5dd766832938" />
+
+    -aqui, navegue até "Pages"
+
+    <img width="1210" height="806" alt="image" src="https://github.com/user-attachments/assets/742224e0-1aa4-44d5-88ca-0e8a9ab54dd1" />
+
+- selecione a opção" Deploy from branch" e logo abaixo, selecione "main" e "/root":
+
+  <img width="1210" height="806" alt="image" src="https://github.com/user-attachments/assets/080090cb-0eed-45b8-bbd5-99e7df4005fc" />
+
+ - clique em "save" bem em frente ao "/root"
+ - agora volte para "code" e clique no ícone marcado na imagem:
+
+   <img width="1109" height="334" alt="image" src="https://github.com/user-attachments/assets/a3ab1bf9-f02d-4215-a966-d09bfac8f787" />
+
+- E clique em "details"
+
+<img width="675" height="242" alt="image" src="https://github.com/user-attachments/assets/fe13abc4-cf7e-412b-af6e-a77f675765bf" />
+
+- vá para "deploy" e depois "complete job"
+
+  <img width="1032" height="469" alt="image" src="https://github.com/user-attachments/assets/ac66ea60-8871-4a55-a656-2315ecb924b9" />
+
+-Selecione o link e pronto! página publicada. Você pode compartilhar o mesmo de acordo com sua necessidade.
+
+<img width="601" height="196" alt="image" src="https://github.com/user-attachments/assets/2ca811b2-0e9b-4527-accf-3a5525ad8b4a" />
+<img width="739" height="381" alt="image" src="https://github.com/user-attachments/assets/672d5d9c-042e-49ec-8a8b-46cc0955d984" />
+
+##
+
+ >[Voltar ao topo](https://github.com/JhonnyThomazz/VScode_html)
