@@ -24,3 +24,19 @@
 
  > *DETALHE: REQUER O APLICATIVO GIT PARA A OPÇÃO ESTAR DISPONÍVEL. OBTENHA O GIT [AQUI](https://git-scm.com/downloads)
 
+<img width="736" height="484" alt="image" src="https://github.com/user-attachments/assets/0edfedd1-ca5b-4c02-9049-07a454da6774" />
+
+- Quando a janela de linha de comando aparecer, digite o comando "git init":
+
+  <img width="578" height="375" alt="image" src="https://github.com/user-attachments/assets/6590897d-a4bf-47ff-b44b-4ab7515d93fc" />
+
+- Seguido por "git add ."*
+>*É NECESSÁRIO DIGITAR O ESPAÇO ANTES DO PONTO, COMO ESCRITO NA COMANDA.
+
+<img width="573" height="368" alt="image" src="https://github.com/user-attachments/assets/d0dbb79c-2ba5-447b-b518-fb96c7f82809" />
+
+- Depois, insira o comentário da commit com "git commit -m"Seu-comentário-aqui" "
+
+<img width="578" height="366" alt="image" src="https://github.com/user-attachments/assets/61afd3f7-3eab-4baa-ad9c-2c08bd0ededf" />
+
+- 
