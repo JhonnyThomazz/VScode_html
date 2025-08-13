@@ -39,4 +39,10 @@
 
 <img width="578" height="366" alt="image" src="https://github.com/user-attachments/assets/61afd3f7-3eab-4baa-ad9c-2c08bd0ededf" />
 
-- 
+- E depois, insira o comando "git remote add origin (link do seu repositório)"
+
+  <img width="570" height="376" alt="image" src="https://github.com/user-attachments/assets/e2dc3373-039c-4524-934e-b3039e9f25ab" />
+
+- Feito isso, digite "git push -U origin main" e seu trabalho está publicado no repositório do github. agora vamos configurar o gitPages.
+
+  
