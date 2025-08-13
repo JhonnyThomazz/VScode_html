@@ -45,4 +45,6 @@
 
 - Feito isso, digite "git push -U origin main" e seu trabalho está publicado no repositório do github. agora vamos configurar o gitPages.
 
-  
+  *<h1>Vamos configurar o gitPages!</h1>*
+  - primeiro, abra as configurações de seu repositório.
+    
